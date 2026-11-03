@@ -37,7 +37,6 @@ export function Cover() {
             width={620}
             height={1024}
             priority
-            unoptimized
             sizes="(min-width: 900px) 54vw, 88vw"
           />
         </div>
